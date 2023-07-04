@@ -1,0 +1,27 @@
+﻿
+	O META o no unused namespace(s)
+
+	O TYPE o no unused namespace(s)
+
+	O LINK o no unused namespace(s)
+	
+sequence FormingCluster
+
+	>Data
+	<<FormingClusterData.cs
+
+	>Template
+	<<FormingClusterTemplate.cs
+
+	>Prototype
+	<<FormingClusterPrototype.cs
+
+	<FormingCluster.cs
+
+	/object\OBJECT/FormingClusterObject.cs\
+
+	/object\OBJECT/FormingClusterDataObject.cs\
+
+	/information\INFORMATION/Formingformation.cs\
+
+end sequence

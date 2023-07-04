@@ -1,0 +1,29 @@
+﻿
+	O META o no unused namespace(s)
+
+	O TYPE o no unused namespace(s)
+
+	O LINK o no unused namespace(s)
+
+sequence EscapingCluster
+
+	>Data
+	<<EscapingClusterData.cs
+
+	>Template
+	<<EscapingClusterTemplate.cs
+
+	>Prototype
+	<<EscapingClusterPrototype.cs
+
+	<EscapingCluster.cs
+
+	/object\OBJECT/EscapingClusterObject.cs\
+
+	/object\OBJECT/EscapingClusterDataObject.cs\
+
+	/template\TEMPLATE/EscapingClusterTemplate.cs\
+
+	/information\INFORMATION/EscapingInformation.cs\
+
+end sequence

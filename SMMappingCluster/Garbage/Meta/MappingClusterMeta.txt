@@ -1,0 +1,27 @@
+﻿
+	O META o no unused namespace(s)
+
+	O TYPE o no unused namespace(s)
+
+	O LINK o no unused namespace(s)
+
+sequence MappingCluster
+
+	>Data
+	<<MappingClusterData.cs
+
+	>Template
+	<<MappingClusterTemplate.cs
+
+	>Prototype
+	<<MappingClusterPrototype.cs
+
+	<MappingCluster.cs
+
+	/object\OBJECT/MappingClusterObject.cs\
+
+	/object\OBJECT/MappingClusterDataObject.cs\
+	
+	/information\INFORMATION/MappingInformation.cs\
+
+end sequence

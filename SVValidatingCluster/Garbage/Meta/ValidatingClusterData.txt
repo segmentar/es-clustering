@@ -1,0 +1,22 @@
+﻿
+	O META o no unused namespace(s)
+
+	O TYPE o no unused namespace(s)
+	
+	O LINK o no unused namespace(s)
+
+sequence ValidatingCubical
+
+	>Data
+	<<ValidatingClusterData.cs
+
+	>Object
+	>>ValidatingCubicalObject
+	<<<ValidatingCubicalObject.cs
+
+	>Prototype
+	<<ValidatingClusterPrototype.cs
+
+	<ValidatingCluster.cs
+
+end sequence
